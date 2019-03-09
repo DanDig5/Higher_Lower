@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HigherLower_Lezione4</string>
+    <string name="too_high">Troppo alto!</string>
+    <string name="too_low">Troppo basso!</string>
+    <string name="guessed">Indovinato!</string>
+    <string name="big_label">Indovina il numero!</string>
+    <string name="try_button">Prova</string>
+    <string name="replay">Rigioca</string>
+    <string name="new_number">Nuovo numero generato</string>
+</resources>

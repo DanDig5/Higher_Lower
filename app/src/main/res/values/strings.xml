@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HigherLower_Lezione4</string>
+    <string name="too_high">Too high!</string>
+    <string name="too_low">Too Low!</string>
+    <string name="guessed">Guessed!</string>
+    <string name="big_label">Guess the number!</string>
+    <string name="try_button">Try</string>
+    <string name="replay">Replay</string>
+    <string name="new_number">New number generated</string>
+
+
+</resources>
